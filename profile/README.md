@@ -1,6 +1,6 @@
 # Comunidade de Typescript do Ceaŕa
 
-<img src="banner.jpeg" />
+<img src="banner.png" />
 
 Fundada em 2023, temos como objetivo converter, evangelizar e doutrinar os desenvolvedores de toda galaxia o uso do typescript. 
 
