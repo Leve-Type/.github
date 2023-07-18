@@ -1,6 +1,6 @@
 # Comunidade de Typescript do Ceaŕa
 
-![Imagem](./banner.png)
+![Image](https://raw.githubusercontent.com/Leve-Type/.github/main/profile/banner.png)
 
 Fundada em 2023, temos como objetivo converter, evangelizar e doutrinar os desenvolvedores de toda galaxia o uso do typescript. 
 
