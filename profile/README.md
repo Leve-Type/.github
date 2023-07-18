@@ -1,4 +1,4 @@
-# Comunidade de Typescript do Ceaŕa
+# Comunidade de Typescript do Ceará
 
 ![Image](https://raw.githubusercontent.com/Leve-Type/.github/main/profile/banner.png)
 
